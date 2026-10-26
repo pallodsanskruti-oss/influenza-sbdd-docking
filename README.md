@@ -93,6 +93,6 @@ Influenza remains a major global health problem because of high mutation rates a
 
 Influenza virus · Structure-Based Drug Design · Molecular Docking · Hemagglutinin · Neuraminidase · M2 protein · Normal Mode Analysis · SwissADME · Antiviral drug discovery
 
-## Citation / Author
+## citations/Author
 
-*Add your name, institution, and year here.*
+*Sanskruti pallod, Deogiri college , 2023-26.*
